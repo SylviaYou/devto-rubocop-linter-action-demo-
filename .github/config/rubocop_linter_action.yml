@@ -1,0 +1,2 @@
+rubocop_extensions:
+  - 'rubocop-performance': '1.5.1'
